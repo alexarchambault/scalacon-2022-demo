@@ -4,3 +4,4 @@
 //> using publish.url "https://github.com/alexarchambault/scalacon-2022-demo"
 //> using publish.versionControl "github:alexarchambault/scalacon-2022-demo"
 //> using publish.developer "Alex Archambault||https://github.com/alexarchambault"
+//> using publish.computeVersion "git:tag"
